@@ -7,7 +7,7 @@ The DAWG Protocol is a smart contract built on top of Ethereum that at its essen
 
 [$DAWG](https://etherscan.io/token/0x51c5d692dd53872ce3f4bf5d97b94892a9619c63) will also be used to bootstrap a DAO that will govern the Inumaki ecosystem of products and libraries. We will always remain open-source, open-standard and have built in mechanisms to decentralize the community more & more from the core founding team as it grows in a exponential fashion. This includes, but is not limited to, the liquidity lock we have placed on the founding team's funds which is viewable [here](https://team.finance/view-coin/0x51c5D692Dd53872Ce3f4BF5D97B94892a9619c63?name=Inumaki&symbol=DAWG) and [here](https://team.finance/view-coin/0x6471Ed9CD4B27d33afF1085E71f7F797dD97697A?name=Inumaki&symbol=DAWG).
 
-We loved watching web1.0 + web2.0 be built and enjoyed interacting/participating with all the virtual communities as they grew and cultural impacts like memes that came from it. This is because at our heart and core, we are just another 'memecoin'. 
+We loved watching web1.0 + web2.0 be built and enjoyed interacting/participating with all the virtual communities as they grew and cultural impacts like memes that came from it. This is because at our heart and core, we are just another 'memecoin' obsessed with dogs. 
 
 But don't be deceived - we have a deeper vendetta hidden beneath the surface. . . a vendetta against the increasingly opaque centralization of decentralized solutions and financial products being built for the new Web disguised by the form of 'investors', 'foundations', 'advisors' and 'talent acquisition'.
 
