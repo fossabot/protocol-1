@@ -1,9 +1,9 @@
-
 <img src="https://i.ibb.co/ZHMmF3T/1-112.png" width="120px"/>
 
 # DAWG Protocol
 
 [![codecov](https://codecov.io/gh/inumakidawg/protocol/branch/main/graph/badge.svg?token=WOBL1ZYC05)](https://codecov.io/gh/inumakidawg/protocol)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finumakidawg%2Fprotocol.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Finumakidawg%2Fprotocol?ref=badge_shield)
 
 The DAWG Protocol is a smart contract built on top of Ethereum that at its essence is a standard ERC20-style token with a delegated voting system forked from COMP/UNI that will allow all prospective holders to make governance decisions on behalf of the entire community. It was also be used for utility as currency in *all* products built for the Inumaki ecosystem. This will start with non-fungible tokens, auctions, marketplaces and open virtual worlds - but later on more advanced solutions will be developed and released.
 
@@ -26,3 +26,7 @@ For any concerns with the protocol, [open an issue](https://github.com/inumakida
 For questions about interacting with DAWG, please visit [our Discord server](https://discord.gg/qTENySSbMT) and ask.
 
 *© "Copyright" 2021, Inumaki.org*
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finumakidawg%2Fprotocol.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Finumakidawg%2Fprotocol?ref=badge_large)
