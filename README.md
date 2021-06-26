@@ -3,6 +3,8 @@
 
 # DAWG Protocol
 
+[![codecov](https://codecov.io/gh/inumakidawg/protocol/branch/main/graph/badge.svg?token=WOBL1ZYC05)](https://codecov.io/gh/inumakidawg/protocol)
+
 The DAWG Protocol is a smart contract built on top of Ethereum that at its essence is a standard ERC20-style token with a delegated voting system forked from COMP/UNI that will allow all prospective holders to make governance decisions on behalf of the entire community. It was also be used for utility as currency in *all* products built for the Inumaki ecosystem. This will start with non-fungible tokens, auctions, marketplaces and open virtual worlds - but later on more advanced solutions will be developed and released.
 
 [$DAWG](https://etherscan.io/token/0x51c5d692dd53872ce3f4bf5d97b94892a9619c63) will also be used to bootstrap a DAO that will govern the Inumaki ecosystem of products and libraries. We will always remain open-source, open-standard and have built in mechanisms to decentralize the community more & more from the core founding team as it grows in a exponential fashion. This includes, but is not limited to, the liquidity lock we have placed on the founding team's funds which is viewable [here](https://team.finance/view-coin/0x51c5D692Dd53872Ce3f4BF5D97B94892a9619c63?name=Inumaki&symbol=DAWG) and [here](https://team.finance/view-coin/0x6471Ed9CD4B27d33afF1085E71f7F797dD97697A?name=Inumaki&symbol=DAWG).
@@ -19,4 +21,8 @@ It will make you apart of the community and its government just as much as anyon
 
 ---
 
-For questions about interacting with DAWG, please visit [our Discord server](https://discord.gg/qTENySSbMT).
+For any concerns with the protocol, [open an issue](https://github.com/inumakidawg/protocol/issues) and discuss.
+
+For questions about interacting with DAWG, please visit [our Discord server](https://discord.gg/qTENySSbMT) and ask.
+
+*© "Copyright" 2021, Inumaki.org*
